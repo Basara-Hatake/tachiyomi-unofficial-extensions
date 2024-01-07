@@ -317,6 +317,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Luminous Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
+    "apk": "tachiyomi-en.luminousscans-v1.4.28.apk",
+    "lang": "en",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Luminous Scans",
+        "lang": "en",
+        "id": "1019556752273106311",
+        "baseUrl": "https://www.luminousscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
     "apk": "tachiyomi-en.reaperscans-v1.4.47.apk",
@@ -332,6 +353,69 @@
         "lang": "en",
         "id": "5177220001642863679",
         "baseUrl": "https://reaperscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Reset Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.resetscans",
+    "apk": "tachiyomi-en.resetscans-v1.4.39.apk",
+    "lang": "en",
+    "code": 39,
+    "version": "1.4.39",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Reset Scans",
+        "lang": "en",
+        "id": "8894279497795073184",
+        "baseUrl": "https://reset-scans.us",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Rizz Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.rizzcomics",
+    "apk": "tachiyomi-en.rizzcomics-v1.4.27.apk",
+    "lang": "en",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Rizz Comics",
+        "lang": "en",
+        "id": "5602435754793143467",
+        "baseUrl": "https://rizzcomic.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Setsu Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.setsuscans",
+    "apk": "tachiyomi-en.setsuscans-v1.4.34.apk",
+    "lang": "en",
+    "code": 34,
+    "version": "1.4.34",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Setsu Scans",
+        "lang": "en",
+        "id": "8546397272954539389",
+        "baseUrl": "https://setsuscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
